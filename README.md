@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sithandweyinkosi 👋
 
-<!--
-**sithandweyinkosi/sithandweyinkosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇿🇦 Software Developer from South Africa
 
-Here are some ideas to get you started:
+I build websites and I know JavaScript!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Journey
+- ✅ Learned Git & GitHub - built my-first-git
+- ✅ Built my first website with HTML
+- ✅ Learned JavaScript
+- 🌱 Now Building: More projects with JS
+
+### 💻 Skills
+Git | GitHub | HTML | JavaScript | VS Code
+
+### 📂 My Projects
+- my-first-git - My first repo with professional website
+
+### 📫 Open to Work!
+Looking for junior dev / internship roles!
+
+> "From zero to developer - one commit at a time!" 🚀
